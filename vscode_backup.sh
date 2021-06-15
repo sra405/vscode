@@ -15,3 +15,6 @@ cp -R /Users/scottadams/Documents/repos/.vscode .
 git add .
 git commit -m "Regular automated backup"
 git push
+
+# Backup extensions
+#cat vs_code_extensions_list.txt | xargs -n 1 code --install-extension
