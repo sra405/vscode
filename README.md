@@ -8,8 +8,10 @@ Nothing special here just a repo to store regular automated backups of my VScode
 
 Edit the `vscode_backup.sh` to point to your repo, ensuring your machine is authorised to push changes to that repo by default. This works well in as a cronjob to fully automate the backup.
 
-### TODO
+### Restore
 
-Restore! Enable a restore from a backup. I've not written it because I've not needed it but if I ever need it I'll thank myself if it's there waiting!
+Just run `make restore` in the repos root 😀
 
-Makefile! The king of shell commands. Once I expand to restoring a config I might as well utilise a Makefile so it can be further expanded in the future.
+### NOTES:
+
+Requires `code` to be installed on the local machine for use in the terminal. This is normally as easy as opening up the command pallet and running `Shell Command: Install 'code' command in PATH` the once in VSCode.
