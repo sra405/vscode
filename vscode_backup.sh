@@ -3,7 +3,7 @@
 echo "VSCode Back-Uperer"
 
 # change to my backup location
-cd $HOME/Documents/repos/Personal/homebrew
+cd $HOME/Documents/repos/Personal/vscode
 
 # run the backup
 /usr/local/bin/code --list-extensions > VSfile

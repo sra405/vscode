@@ -10,6 +10,7 @@ golang.go
 GraphQL.vscode-graphql
 hashicorp.terraform
 jebbs.plantuml
+kaiwood.endwise
 leizongmin.node-module-intellisense
 mhutchie.git-graph
 moshfeu.compare-folders
@@ -25,9 +26,11 @@ ms-vsliveshare.vsliveshare
 naumovs.color-highlight
 Perkovec.emoji
 rangav.vscode-thunder-client
+rebornix.ruby
 redhat.vscode-commons
 redhat.vscode-yaml
 streetsidesoftware.code-spell-checker
 VisualStudioExptTeam.vscodeintellicode
 vscode-icons-team.vscode-icons
+wingrunr21.vscode-ruby
 wix.vscode-import-cost
