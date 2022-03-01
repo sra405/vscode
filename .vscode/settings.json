@@ -1,4 +1,39 @@
 {
+  "workbench.editorAssociations": {
+      "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.scrollback": 10000,
+  "vs-kubernetes": {
+      "vscode-kubernetes.kubectl-path.mac": "/Users/scottadams/.vs-kubernetes/tools/kubectl/kubectl",
+      "vscode-kubernetes.minikube-path.mac": "/Users/scottadams/.vs-kubernetes/tools/minikube/darwin-amd64/minikube"
+  },
+  "git.autofetch": true,
+  "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "python.formatting.provider": "black",
+  "workbench.colorTheme": "Default Dark+",
+  "files.associations": {
+      "Makefile": "makefile"
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+      "*": true,
+      "yaml": true,
+      "plaintext": false,
+      "markdown": false
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "redhat.telemetry.enabled": true,
+  "diffEditor.ignoreTrimWhitespace": false,
   "workbench.colorCustomizations": {
     "activityBar.activeBackground": "#2f7c47",
     "activityBar.activeBorder": "#422c74",
@@ -15,8 +50,9 @@
     "titleBar.inactiveBackground": "#21573299",
     "titleBar.inactiveForeground": "#e7e7e799"
   },
-  "peacock.color": "#215732",
   "[ruby]": {
     "editor.tabSize": 2
-  }
+  },
+  "ruby.useLanguageServer": true,
+  "ruby.intellisense": "rubyLocate"
 }
