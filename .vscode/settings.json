@@ -12,7 +12,7 @@
   },
   "git.autofetch": true,
   "[json]": {
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
+      "editor.defaultFormatter": "HookyQR.beautify"
   },
   "python.formatting.provider": "black",
   "workbench.colorTheme": "Default Dark+",
