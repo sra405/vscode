@@ -9,6 +9,7 @@ GitHub.remotehub
 GitHub.vscode-pull-request-github
 golang.go
 GraphQL.vscode-graphql
+GraphQL.vscode-graphql-syntax
 hashicorp.terraform
 HookyQR.beautify
 jebbs.plantuml
@@ -27,6 +28,8 @@ ms-toolsai.jupyter
 ms-toolsai.jupyter-keymap
 ms-toolsai.jupyter-renderers
 ms-vscode-remote.remote-containers
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-ssh-edit
 ms-vscode.remote-repositories
 ms-vsliveshare.vsliveshare
 naumovs.color-highlight
@@ -35,6 +38,7 @@ rangav.vscode-thunder-client
 rebornix.ruby
 redhat.vscode-commons
 redhat.vscode-yaml
+silvenon.mdx
 streetsidesoftware.code-spell-checker
 VisualStudioExptTeam.vscodeintellicode
 vscode-icons-team.vscode-icons
