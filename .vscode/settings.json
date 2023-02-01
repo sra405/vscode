@@ -15,7 +15,7 @@
       "editor.defaultFormatter": "HookyQR.beautify"
   },
   "python.formatting.provider": "black",
-  "workbench.colorTheme": "Default Dark+",
+  "workbench.colorTheme": "Material Theme Darker High Contrast",
   "files.associations": {
       "Makefile": "makefile"
   },
