@@ -1,11 +1,9 @@
 apollographql.vscode-apollo
 be5invis.toml
-cssho.vscode-svgviewer
 dbaeumer.vscode-eslint
 dotjoshjohnson.xml
 eamodio.gitlens
 eg2.vscode-npm-script
-equinusocio.vsc-community-material-theme
 equinusocio.vsc-material-theme
 equinusocio.vsc-material-theme-icons
 esbenp.prettier-vscode
@@ -25,7 +23,6 @@ hookyqr.beautify
 jebbs.plantuml
 kaiwood.endwise
 leizongmin.node-module-intellisense
-mgcb-vscode.mgcb-vscode
 mhutchie.git-graph
 mohsen1.prettify-json
 moshfeu.compare-folders
