@@ -1,0 +1,71 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "files.associations": {
+    "Makefile": "makefile",
+    //  "*.erb": "html"
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "editor.inlineSuggest.enabled": true,
+  "editor.suggestSelection": "first",
+  "editor.stopRenderingLineAfter": -1,
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "redhat.telemetry.enabled": true,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "thunder-client.codeSnippetLanguage": "curl",
+  "git.autofetch": true,
+  // "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.tabSize": 2,
+  "workbench.startupEditor": "none",
+  "gitlens.blame.line.enabled": false, // was working in previous versions
+  "gitlens.currentLine.enabled": false, // in modern version
+  "gitlens.codeLens.authors.enabled": false,
+  "gitlens.codeLens.recentChange.enabled": false,
+  "githubPullRequests.pullBranch": "never",
+  "tabnine.experimentalAutoImports": true,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "[javascript]": {
+    "editor.formatOnType": true
+  },
+  "ruby.useBundler": true, //run non-lint commands with bundle exec
+  "ruby.useLanguageServer": true, // use the internal language server (see below)
+  "ruby.lint": {
+    "rubocop": {
+      "useBundler": true // enable rubocop via bundler
+    },
+    "reek": {
+      "useBundler": true // enable reek via bundler
+    }
+  },
+  "npm.keybindingsChangedWarningShown": true,
+  "files.insertFinalNewline": true,
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+    //     "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false,
+    "yaml": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.confirmSync": false,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  // "[javascript]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // }
+  // "ruby.format": "rubocop"
+  // "window.zoomLevel": 1.5
+}
