@@ -12,7 +12,7 @@ rm -r .vscode
 cp -R $HOME/Documents/repos/.vscode .
 mkdir -p User
 rm -r User/*
-cp -R ~/Library/Application\ Support/Code/User/settings.json User/
+cp -R ~/Library/Application\ Support/Code/User/*.json User/
 
 # add to git repo
 git add .

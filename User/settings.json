@@ -1,7 +1,7 @@
 {
   "workbench.colorTheme": "Default Dark+",
   "files.associations": {
-    "Makefile": "makefile",
+    "Makefile": "makefile"
     //  "*.erb": "html"
   },
   "workbench.iconTheme": "vscode-icons",
@@ -16,7 +16,7 @@
   // "editor.tabSize": 4,
   "editor.insertSpaces": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true,
+  // "editor.formatOnSave": true,
   "eslint.format.enable": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
@@ -62,7 +62,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "git.confirmSync": false,
-  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.unicodeHighlight.ambiguousCharacters": false
   // "[javascript]": {
   //   "editor.defaultFormatter": "esbenp.prettier-vscode"
   // }
