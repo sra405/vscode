@@ -1,77 +1,11 @@
 {
-  "workbench.colorTheme": "Default Dark+",
-  "files.associations": {
-    "Makefile": "makefile"
-    //  "*.erb": "html"
-  },
-  "workbench.iconTheme": "vscode-icons",
-  "editor.inlineSuggest.enabled": true,
-  "editor.suggestSelection": "first",
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "redhat.telemetry.enabled": true,
-  "diffEditor.ignoreTrimWhitespace": true,
-  "git.autofetch": true,
-  // "editor.tabSize": 4,
-  "editor.insertSpaces": true,
-  // "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true,
-  "eslint.format.enable": true,
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": "explicit"
-  },
-  "editor.tabSize": 2,
-  "workbench.startupEditor": "none",
-  "gitlens.currentLine.enabled": false, // in modern version
-  "gitlens.codeLens.authors.enabled": false,
-  "gitlens.codeLens.recentChange.enabled": false,
-  "githubPullRequests.pullBranch": "never",
-  "[python]": {
-    "editor.formatOnType": true
-  },
-  "[javascript]": {
-    "editor.formatOnType": true
-  },
-  "ruby.useBundler": true, //run non-lint commands with bundle exec
-  "ruby.useLanguageServer": true, // use the internal language server (see below)
-  "ruby.lint": {
-    "rubocop": {
-      "useBundler": true // enable rubocop via bundler
-    },
-    "reek": {
-      "useBundler": true // enable reek via bundler
-    }
-  },
-  // "[ruby]": {
-  //   "editor.defaultFormatter": "rubocop.vscode-rubocop",
-  //   "editor.formatOnSave": true
-  // },
-  "npm.keybindingsChangedWarningShown": true,
-  "files.insertFinalNewline": true,
-  "[html]": {
-    "editor.defaultFormatter": "HookyQR.beautify"
-    //     "editor.defaultFormatter": "HookyQR.beautify"
-  },
-  "github.copilot.enable": {
-    "*": true,
-    "plaintext": false,
-    "markdown": true,
-    "scminput": false,
-    "yaml": true
-  },
-  "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "git.confirmSync": false,
-  "editor.unicodeHighlight.ambiguousCharacters": false,
-  "rubyLsp.rubyVersionManager": {
-    "identifier": "asdf"
-  },
-  "[markdown]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
-  // "[javascript]": {
-  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
-  // }
-  // "ruby.format": "rubocop"
-  // "window.zoomLevel": 1.5
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.integrated.fontFamily": "MesloLGL Nerd Font Mono",
+    "git.autofetch": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "vsicons.dontShowNewVersionMessage": true,
+    "git.blame.editorDecoration.enabled": true,
+    "gitlens.codeLens.enabled": false,
+    "docker.extension.enableComposeLanguageServer": false,
+    "go.toolsManagement.autoUpdate": true
 }
