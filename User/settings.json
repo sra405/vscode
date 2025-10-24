@@ -7,5 +7,39 @@
     "git.blame.editorDecoration.enabled": true,
     "gitlens.codeLens.enabled": false,
     "docker.extension.enableComposeLanguageServer": false,
-    "go.toolsManagement.autoUpdate": true
+    "go.toolsManagement.autoUpdate": true,
+    "githubPullRequests.pullBranch": "never",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "gitlens.plusFeatures.enabled": false,
+    "chat.instructionsFilesLocations": {
+        ".github/instructions": true,
+        "/var/folders/0j/7d_yv90d0h93ypc092zxzl6h0000gn/T/postman-http-request-post-response.instructions.md": true,
+        "/var/folders/0j/7d_yv90d0h93ypc092zxzl6h0000gn/T/postman-http-request-pre-request.instructions.md": true,
+        "/var/folders/0j/7d_yv90d0h93ypc092zxzl6h0000gn/T/postman-collections-post-response.instructions.md": true,
+        "/var/folders/0j/7d_yv90d0h93ypc092zxzl6h0000gn/T/postman-collections-pre-request.instructions.md": true,
+        "/var/folders/0j/7d_yv90d0h93ypc092zxzl6h0000gn/T/postman-folder-post-response.instructions.md": true,
+        "/var/folders/0j/7d_yv90d0h93ypc092zxzl6h0000gn/T/postman-folder-pre-request.instructions.md": true
+    },
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "[dockercompose]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.autoIndent": "advanced",
+        "editor.quickSuggestions": {
+            "other": true,
+            "comments": false,
+            "strings": true
+        },
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "[github-actions-workflow]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "git.suggestSmartCommit": false,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false
+    }
 }
