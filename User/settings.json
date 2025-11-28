@@ -41,5 +41,12 @@
         "plaintext": false,
         "markdown": true,
         "scminput": false
-    }
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "postman.mcp.notifications.postmanMCP": false,
+    "git.confirmSync": false,
+    "tsuml2-vscode.memberAssociations": true,
+    "tsuml2-vscode.exportedTypesOnly": true
 }
