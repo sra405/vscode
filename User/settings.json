@@ -48,5 +48,9 @@
     "postman.mcp.notifications.postmanMCP": false,
     "git.confirmSync": false,
     "tsuml2-vscode.memberAssociations": true,
-    "tsuml2-vscode.exportedTypesOnly": true
+    "tsuml2-vscode.exportedTypesOnly": true,
+    "chat.tools.terminal.autoApprove": {
+        "npx": true
+    },
+    "chat.viewSessions.orientation": "stacked"
 }
