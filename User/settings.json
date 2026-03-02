@@ -13,6 +13,7 @@
     "gitlens.plusFeatures.enabled": false,
     "chat.instructionsFilesLocations": {
         ".github/instructions": true,
+        ".claude/rules": true,
         "/var/folders/0j/7d_yv90d0h93ypc092zxzl6h0000gn/T/postman-http-request-post-response.instructions.md": true,
         "/var/folders/0j/7d_yv90d0h93ypc092zxzl6h0000gn/T/postman-http-request-pre-request.instructions.md": true,
         "/var/folders/0j/7d_yv90d0h93ypc092zxzl6h0000gn/T/postman-collections-post-response.instructions.md": true,
@@ -52,5 +53,8 @@
     "chat.tools.terminal.autoApprove": {
         "npx": true
     },
-    "chat.viewSessions.orientation": "stacked"
+    "chat.viewSessions.orientation": "stacked",
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+    "grunt.autoDetect": "on"
 }

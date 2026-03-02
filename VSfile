@@ -16,7 +16,6 @@ elia.erb-formatter
 esbenp.prettier-vscode
 figma.figma-vscode-extension
 fooo.ruby-spec-runner
-github.copilot
 github.copilot-chat
 github.remotehub
 github.vscode-github-actions
@@ -25,6 +24,7 @@ golang.go
 graphql.vscode-graphql
 graphql.vscode-graphql-execution
 graphql.vscode-graphql-syntax
+greenbyte.handlebars-preview
 hashicorp.terraform
 jebbs.plantuml
 jock.svg
@@ -74,8 +74,6 @@ stylelint.vscode-stylelint
 syler.sass-indented
 testdouble.vscode-standard-ruby
 unifiedjs.vscode-mdx
-visualstudioexptteam.intellicode-api-usage-examples
-visualstudioexptteam.vscodeintellicode
 vscode-icons-team.vscode-icons
 vstirbu.vscode-mermaid-preview
 vue.volar
